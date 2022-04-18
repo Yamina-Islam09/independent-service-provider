@@ -2,7 +2,7 @@ import React from "react";
 import "./Blogs.css";
 const Blogs = () => {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 mb-5">
       <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 g-lg-3">
         <div className="col">
           <div className="p-3 border border-danger bg-light" style={{height:'450px'}}>
