@@ -15,14 +15,14 @@
     },
     {
         "id": 3,
-        "name": "HangOut MealSet",
+        "name": "Cake Baking",
         "price": "1050",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "description": "Cake is a form of sweet food made from flour, sugar, and other ingredients, that is usually baked.Cakes were modifications of bread,",
         "img": "https://i.ibb.co/9rnnS0M/food1.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
+        "name": "HangOut MealSet",
         "price": "180",
         "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
         "img": "https://i.ibb.co/34NbgmF/food7.jpg"
