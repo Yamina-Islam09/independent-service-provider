@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Dawat MealSet",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/V957XkB/food5.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Fuchka Chut",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/JyxYSk5/food6.png"
+    },
+    {
+        "id": 3,
+        "name": "HangOut MealSet",
+        "price": "1050",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/9rnnS0M/food1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BRAKE REPARING",
+        "price": "180",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/34NbgmF/food7.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Dessert Pitha",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/xqCqf8n/food2.jpg"
+    }
+]
+
+
+
+
+
+
+
+
