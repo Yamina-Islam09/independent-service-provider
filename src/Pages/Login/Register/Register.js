@@ -81,7 +81,7 @@ const Register = () => {
         
                 <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Genius Car Terms and Conditions</label>
         </Form.Group>
-        <Button variant="primary" type="submit" className='w-100 mx-auto btn btn-primary mt-2' disabled={!agree}>
+        <Button variant="primary" type="submit" className='w-100 mx-auto btn btn-warning mt-2' disabled={!agree}  style={{color:'black'}}>
           Register
         </Button>
       </Form>
@@ -91,6 +91,7 @@ const Register = () => {
           to="/login"
           className="text-danger pe-auto text-decoration-none"
           onClick={navigateLogin}
+         
         >
           Please Login
         </Link>

@@ -5,8 +5,8 @@ const Blogs = () => {
     <div className="container mt-5">
       <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-5 g-lg-3">
         <div className="col">
-          <div className="p-3 border bg-light" style={{height:'450px'}}>
-            <h2 className="text-danger">
+          <div className="p-3 border border-danger bg-light" style={{height:'450px'}}>
+            <h2  style={{color:'black'}}>
               Difference between authorization and authentication
             </h2>
             <p>
@@ -17,8 +17,8 @@ const Blogs = () => {
           </div>
         </div>
         <div className="col">
-          <div className="p-3 border bg-light w-100" style={{height:'450px'}}>
-            <h2 className="text-danger">
+          <div className="p-3 border border-danger bg-light w-100" style={{height:'450px'}}>
+            <h2  style={{color:'black'}}>
               Why are you using firebase? What other options do you have to
               implement authentication
             </h2>
@@ -33,8 +33,8 @@ const Blogs = () => {
           </div>
         </div>
         <div className="ccol">
-          <div className="p-3 border bg-light" style={{height:'450px'}}>
-            <h2 className="text-danger">
+          <div className="p-3 border border-danger bg-light" style={{height:'450px'}}>
+            <h2  style={{color:'black'}}>
               What other services does firebase provide other than
               authentication
             </h2>
