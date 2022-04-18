@@ -1,6 +1,6 @@
 # Home Catering React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Home Catering React App](https://assignment-10-87e84.web.app).
 
 ## website's  features and functionality
 * unauthenticated user can browse only non protected routes
