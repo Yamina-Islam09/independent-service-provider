@@ -2,8 +2,9 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div>
-            <h2>this is about us</h2>
+        <div className='container mt-5 border border-danger p-4'>
+            <h2 style={{color:'black'}} className='text-center mb-3'>My Goals</h2>
+            <p>First of all, I have to revise react js again in eid vaccation. then I have to complete this course sincerely..I want to give myself everyday about 5/6hours for web development.Then I have to create my own portfolio.I have to read documentations and prepare myself for interviews to get a paid job.Also I need to give time on problem solvings</p>
         </div>
     );
 };
